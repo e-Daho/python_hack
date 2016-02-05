@@ -1,9 +1,7 @@
 #! /usr/bin/env python
 # -*-coding: utf-8 -*-
 
-import re
-import urllib2
-import sys
+import re, urllib2, sys
 
 # script permettant de lister les sous-domaines contenus dans une page web
 
