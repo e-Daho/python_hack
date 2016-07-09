@@ -1,4 +1,4 @@
-# python_hack
-<h1>Scripts en python pour faire du hacking</h1>
+# python_scripts
+<h1>Premiers scripts en python</h1>
 
-Ce dossier contient quelques scripts que j'ai écrit en python autour du hacking
+Mes premiers scripts e Python
